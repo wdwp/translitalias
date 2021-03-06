@@ -44,7 +44,7 @@ class TranslitAlias extends CMSModule {
 		return $this->Lang ( 'friendlyname' );
 	}
 	function GetVersion() {
-		return '0.1';
+		return '1.0';
 	}
 	function MinimumCMSVersion() {
 		return '2.0';
