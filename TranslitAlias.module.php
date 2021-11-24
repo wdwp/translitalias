@@ -45,7 +45,7 @@ class TranslitAlias extends CMSModule {
 	}
 
 	function GetVersion() {
-		return '1.1';
+		return '1.2';
 	}
 
 	function MinimumCMSVersion() {
@@ -176,5 +176,3 @@ class TranslitAlias extends CMSModule {
 
 	}
 }
-
-?>
